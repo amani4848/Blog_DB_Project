@@ -1,4 +1,4 @@
-# Blog_db
+# Blog_DB_Project
 
 ## Project Overview
 This project is a simple blog database created using MongoDB and MongoDB Compass. It is designed to manage users, posts, and followers in a straightforward manner.
