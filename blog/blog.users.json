@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "677bca92fe9c1cf1bd6d714f"
+  },
+  "name": "Sara",
+  "age": 20,
+  "email": "sara@tst.com\t",
+  "gender": "female"
+},
+{
+  "_id": {
+    "$oid": "677bcafbfe9c1cf1bd6d7150"
+  },
+  "name": "Noura",
+  "age": 20,
+  "email": "noura@tst.com\t",
+  "gender": "female"
+},
+{
+  "_id": {
+    "$oid": "677bcb3dfe9c1cf1bd6d7151"
+  },
+  "name": "Ahmed",
+  "age": 22,
+  "email": "ahmed@tst.com\t",
+  "gender": "male"
+}]
